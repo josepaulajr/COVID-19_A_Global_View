@@ -8,11 +8,6 @@ In this report, you can explore the numbers of Covid-19 across the globe and see
 
 ### Countries Report
 In this one, you will deep into the country's numbers and compare these with the global values.
-<br/> 
-<br/> 
-_________________
-
-<br/>
 
 ## Data Sources: 
 * Center for Systems Science and Engineering (CSSE) at Johns Hopkins University: https://github.com/CSSEGISandData/COVID-19
