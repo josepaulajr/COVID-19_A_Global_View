@@ -1,7 +1,7 @@
 # COVID-19: A Global Visualization
 
 ## Reports
-This project contains two reports with different perspectives.
+This project contains two reports with different perspectives to see how Covid-19 evolved in the world.
 
 ### Global Report
 In this report, you can explore the numbers of Covid-19 across the globe and see what countries have the biggest numbers.
