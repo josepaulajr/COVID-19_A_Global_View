@@ -1,4 +1,4 @@
-# COVID-19: A Global Visualization
+# COVID-19: A Global View
 
 ## Reports
 This project contains two reports with different perspectives.
